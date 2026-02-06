@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SciVizAI
+description: Exploring the intersection of scientific visualization and artificial intelligence
 theme: just-the-docs
+name: ""
 
-url: https://just-the-docs.github.io
+url: https://shehryar.github.io/SciVizAI
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Feedback Form: https://shehryar.github.io/SciVizAI
