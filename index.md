@@ -13,7 +13,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Navigate the Site
 
-- **[Foundations](/foundations/)** - Understanding core principles and ethics
+- **[Foundations](/SciVizAI/foundations/)** - Understanding core principles and ethics
 - **[AI in Production](/ai-in-production/)** - Real-world applications and integration
 - **[Technological Experiments](/technological-experiments/)** - Cutting-edge projects and research
 
