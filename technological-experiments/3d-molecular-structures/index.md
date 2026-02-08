@@ -3,33 +3,15 @@ title: 3D Molecular Structures
 parent: Technological Experiments
 nav_order: 2
 layout: default
+nav_exclude: true
 ---
 
-# 🧬 3D Molecular Structures
-
-Web-based 3D rendering of molecular structures with rotation, zoom, and analysis capabilities for scientific research.
-
-## Overview
-
-Perfect for chemistry and biology research. Explore molecular compositions from the atomic level with interactive controls and detailed molecular properties displayed in real-time.
+# 3D Molecular Structures
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## Features
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- Interactive 3D rotation and zoom
-- Atom and bond visualization
-- Molecular property display
-- Multiple file format support (PDB, XYZ, MOL)
-- Measurement tools
-- Export capabilities
+## Overview
 
-## Status
-
-**Prototype Phase**
-
-## Technologies
-
-- Three.js for 3D graphics
-- PDB.js for molecular data parsing
-- Canvas rendering
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
