@@ -1,3 +1,23 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+<script>
+// Expand all navigation accordions on page load and keep them open
+document.addEventListener('DOMContentLoaded', function() {
+  // Check all nav-list-expander checkboxes to expand all accordions
+  var checkboxes = document.querySelectorAll('.nav-list-item > input[type="checkbox"]');
+  checkboxes.forEach(function(checkbox) {
+    checkbox.checked = true;
+  });
+  
+  // Optionally prevent collapse by disabling clicks (keeps them open)
+  // Uncomment if you want accordions to never collapse
+  // checkboxes.forEach(function(checkbox) {
+  //   checkbox.addEventListener('click', function(e) {
+  //     e.preventDefault();
+  //     this.checked = true;
+  //   });
+  // });
+});
+</script>

@@ -4,7 +4,8 @@ theme: just-the-docs
 logo: "/Logo.png"
 name: ""
 
-nav_fold: false
+# Expand all nav items by default
+nav_expanded: false
 
 url: https://shay-saharan.github.io/SciVizAI/
 
