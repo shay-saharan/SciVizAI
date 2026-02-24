@@ -17,4 +17,5 @@ Understanding AI in image production requires shifting from a metaphor of machin
 
 For creative practitioners, this distinction is crucial. AI is not an autonomous artist. It is a structured system for pattern synthesis.
 
+![Copyright Attribution](assets/AI_howitworks.png)
 
