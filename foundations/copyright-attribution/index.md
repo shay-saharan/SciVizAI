@@ -7,9 +7,13 @@ layout: default
 
 # Copyright & Attribution
 
+## Intellectual Property
+
+Intellectual property (IP) is a set of legal rights that protect products of human creativity and ingenuity in the form of inventions, expressions, ideas, symbols, and designs. These rights give the owner the exclusive right to profit from the IP's use or distriubution, and the owner can license or sell these rights to others. The most common varieties of IP include patents, copyright, tradmearks, and industrial designs, which have varying durations.
+
 ## What is Copyright?
 
-Copyright is a legal framework that balances rewarding creators while eventually allowing society to freely use and build upon creative outputs. The core role of copyright is to:
+Copyright is a legal framework that balances rewarding creators of literary, musical, and artistic works while eventually allowing society to freely use and build upon creative outputs. The core role of copyright is to:
 - grant creators exclusive rights to benefit financially from their work
 - protect the reputation of authors and ensure the integrity of their work
 - after an apporopriate period, revert the created work to the public domain to enable cultural enrichment and ongoing creation
@@ -17,8 +21,8 @@ Copyright is a legal framework that balances rewarding creators while eventually
 ## Copyright and AI
 
 There are two principal ways in which copyright is implicated in AI:
-- in terms of AI model training, was the copyright of the authors of the creative works on which the model was trained respected? Did the authors give permission? Were they compensated for the use of their works?
-- in terms of the model's output, what is their copyright status? Does copyright vest in these outputs? Does the prompter own the copyright to the work?
+- In terms of AI model training: In order to create AI models, vast swaths of copyrighted material have been ingested by companies like OpenAI and Anthropic. Did the authors give permission? Were they compensated for the use of their works? In most cases that answers to those questions is no, and there are numerous court cases challenging this usage on copyright grounds.
+- In terms of the model's output: what is the copyright status of the generated work? Does the human initiator/prompter own the copyright to the work?
 
 ### Model Training
 
