@@ -20,11 +20,10 @@ Teaching materials and pedagogical insights
 Feedback on existing content
 
 ### About This Project
-This resource hub is developed and maintained by [your team/program name].
+This resource hub is led by [Shehryar (Shay) Saharan](mailto:s.saharan@utoronto.ca) and [Nick Woolridge](mailto:n.woolridge@utoronto.ca) at [Biomedical Communications, University of Toronto](https://bmc.med.utoronto.ca/), with external committee members, [Gael McGill](mailto:mcgill@crystal.harvard.edu) (Harvard Medical School) and [Roxanne Ziman](mailto:roxanne.ziman@uib.no) (University of Bergen).
 
 ### Questions or feedback?
 [Contact information]
-
 
 ## Information Hierarchy
 
