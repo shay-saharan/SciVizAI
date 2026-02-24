@@ -7,10 +7,14 @@ layout: default
 
 # Understanding AI
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This page introduces the essential concepts you need to understand AI, especially as it relates to image generation and visual production.
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Artificial Intelligence refers to systems designed to perform tasks such as recognition, prediction, classification, and generation. In the context of visual production, AI systems do not “understand” images in a semantic or experiential sense. **Rather, they detect and reproduce statistical regularities across large datasets.**
+
+Understanding AI in image production requires shifting from a metaphor of machine “thinking” to one of probabilistic modeling. AI models do not possess intention or awareness; they operate through mathematical transformations that encode relationships between pixels, shapes, textures, and semantic descriptors.
+
+For creative practitioners, this distinction is crucial. AI is not an autonomous artist. It is a structured system for pattern synthesis.
+
+
