@@ -1,11 +1,11 @@
 ---
-title: Technological Case Studies
-parent: Practice & Experiments
-nav_order: 2
+title: AI and the Production Pipeline
+parent: Creative Workflows
+nav_order: 1
 layout: default
 ---
 
-# Technological Case Studies
+# AI and the Production Pipeline
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

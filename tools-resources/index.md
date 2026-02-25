@@ -1,6 +1,6 @@
 ---
 title: Tools & Resources
-nav_order: 4
+nav_exclude: true
 has_children: true
 layout: default
 ---
@@ -13,5 +13,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Sections
 
-- [Interactive Tool Directory](interactive-tool-directory/)
 - [Resource Library](resource-library/)

@@ -28,8 +28,9 @@ This resource hub is led by [Shehryar (Shay) Saharan](mailto:s.saharan@utoronto.
 ## Information Hierarchy
 
 - [Foundations](foundations/)
-- [Practice & Experiments](practice-experiments/)
-- [Tools & Resources](tools-resources/)
+- [Creative Workflows](creative-workflows/)
+- [Technological Case Studies](technological-case-studies/)
+- [Interactive Tool Directory](interactive-tool-directory/)
 - [Teaching & Learning](teaching-learning/)
 - [Community & Governance](community-governance/)
 
