@@ -37,3 +37,9 @@ X
 
 ### Diffusion Models
 X
+
+#### Author(s)
+Shehryar (Shay) Saharan  
+Last edited: 25-Feb-2026  
+*Report any inaccuracies or suggest updates*
+

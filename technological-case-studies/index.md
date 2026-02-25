@@ -1,6 +1,7 @@
 ---
 title: Technological Case Studies
 nav_order: 4
+has_children: true
 layout: default
 ---
 
@@ -13,3 +14,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ## Overview
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Sections
+
+- [Running Local LLMs: A Practical Guide](local-llms)
