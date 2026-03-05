@@ -8,9 +8,17 @@ layout: default
 # Understanding AI
 At this point, you've likely encountered terms like "generative AI," "large language models," and "diffusion models" thrown. These concepts are often mentioned together, but they refer to different technologies and ideas. This page clarifies and distinguishes these key terms. It introduces the essential concepts you need to understand AI in the context of Scientific Visualization (SciViz), particularly as they relate to image generation and visual production.
 
-## Overview
+## AI vs. Traditional Tools/Workflows
+Artificial intelligence differs from traditional digital tools in both how it functions and how users interact with it. Conventional software operates through explicit, pre-programmed instructions: given the same input, it reliably produces the same output. Tools such as ZBrush, Photoshop and Maya follow predefined rules designed by human developers. AI systems, by contrast, rely on machine learning models that are trained on large datasets to identify patterns and generate responses or predictions. Rather than executing a fixed sequence of instructions, AI systems infer relationships within data and produce outputs probabilistically. This means that the same prompt or input may yield slightly different results across multiple uses, reflecting the model’s attempt to generate the most plausible response rather than a strictly deterministic one. The figure below illustrates this very point; these two outputs were generated minutes apart (prompt, and image details available below).
 
-Artificial Intelligence refers to systems designed to perform tasks such as recognition, prediction, classification, and generation. In the context of visual production, AI systems do not “understand” images in a semantic or experiential sense. **Rather, they detect and reproduce statistical regularities across large datasets.**
+![UnderstandingAI Output 1 and 2](assets/UnderstandingAI_Output12.png)
+
+These differences also change the nature of the user’s role in the workflow. With traditional tools, users typically specify exact commands and procedures to reach a desired outcome. Working with AI, however, often involves iterative prompting, evaluation, and refinement. Users guide the system through natural language instructions and must assess the outputs it produces. In this sense, AI functions less like a static tool. Understanding this distinction is important for setting appropriate expectations about reliability, transparency, and the level of human oversight required when integrating AI into any part of the production pipeline.
+
+
+## What is Artificial Intelligence
+
+**Artificial Intelligence** refers to systems designed to perform tasks such as recognition, prediction, classification, and generation. In the context of visual production, AI systems do not “understand” images in a semantic or experiential sense. **Rather, they detect and reproduce statistical regularities across large datasets.**
 
 Understanding AI in image production requires shifting from a metaphor of machine “thinking” to one of probabilistic modeling. AI models do not possess intention or awareness; they operate through mathematical transformations that encode relationships between pixels, shapes, textures, and semantic descriptors.
 
