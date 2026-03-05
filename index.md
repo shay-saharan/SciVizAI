@@ -28,9 +28,10 @@ This resource hub is led by [Shehryar (Shay) Saharan](mailto:s.saharan@utoronto.
 ## Information Hierarchy
 
 - [Foundations](foundations/)
-- [Creative Workflows](creative-workflows/)
-- [Technological Case Studies](technological-case-studies/)
+- [Ethics & Responsible Use](ethics-responsible-use/)
+- [AI in Visual Production](ai-in-visual-production/)
+- [Technology Guides](technology-guides/)
+- [Case Studies](case-studies/)
 - [Interactive Tool Directory](interactive-tool-directory/)
-- [Teaching & Learning](teaching-learning/)
-- [Community & Governance](community-governance/)
+- [How to Contribute](how-to-contribute/)
 
