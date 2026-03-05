@@ -34,7 +34,7 @@ This is especially problematic where the outputs of the Gen-AI models may ultima
 
 ### Output Copyright
 
-![AI Output and Copyright](assets/AI_Output_.png =200x)
+<img src="assets/AI_Output_.png" width="300" alt="Model Training" />
 
 #### Copyright in Canada
 
