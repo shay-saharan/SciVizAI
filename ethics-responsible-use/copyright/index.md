@@ -30,7 +30,7 @@ Gen-AI tools are trained by feeding them vast corpora of data in the form of tex
 
 This is especially problematic where the outputs of the Gen-AI models may ultimately threaten the creative livelihood of the original creators. Many lawsuits have been initiated by groups of artists, authers, and publishers to prevent AI companies from using their work without consulation, consent, and compensation.
 
-![Model Training](assets/AI_Training.png =200x)
+<img src="assets/AI_Training.png" width="300" alt="Model Training" />
 
 ### Output Copyright
 
