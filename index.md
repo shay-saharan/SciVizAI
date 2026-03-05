@@ -10,6 +10,9 @@ nav_order: 1
 
 Scientific and medical visualization professionals are navigating a rapidly evolving AI landscape. This resource hub provides field-specific guidance, technical experiments, and ethical frameworks to help practitioners, educators, and students integrate AI tools responsibly into their practice.
 
+## Why This Matters Now
+AI tools are already reshaping scientific and medical visualization workflows today. Practitioners are experimenting with generative tools. Publishers are establishing new disclosure requirements. Institutions are creating policies about AI disclosure and attribution. Many of our day-to-day software now have build in AI features. Whether you're skeptical about AI or enthusiastically experimenting, we need to create space for open dialog, and collaboration.
+
 ### Contributing
 This resource hub grows stronger with community participation. 
 We welcome:
