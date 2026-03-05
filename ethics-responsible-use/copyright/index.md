@@ -34,9 +34,13 @@ This is especially problematic where the outputs of the Gen-AI models may ultima
 
 ### The copyright status of AI output
 
-"Who owns the output of a Gen-AI model?" The answer to that question is not simple. In terms of *property rights*, the answer would be: "the prompter or initiator of the AI model". In terms of *copyright*, the answer is: "no one". In the US, Camada, and most of Europe, *human authorship* is required for a creative work to be eligible for copyright protection. 
+"Who owns the output of a Gen-AI model?" The answer to that question is not simple. In terms of *property rights*, the answer would be: "the prompter or initiator of the AI model". In terms of *copyright*, the answer could be: "no one". In Canada, the US, and most of Europe, *human authorship* is required for a creative work to be eligible for copyright protection. 
 
 <img src="assets/AI_Output_.png" width="300" alt="Model Training" />
+
+Where there is both human and machine contributions to a work, those elements that are human-authored can have copyright protection, but those elements that are machine generated cannot. 
+
+In some jurisdictions, such as the UK, copyright legislation is written to expressly allow copyright protection for AI-generated works. AI companies in North America are lobbying for changes to copyright legislation to allow for copyright protection for AI-generated work.
 
 #### Copyright in Canada
 
