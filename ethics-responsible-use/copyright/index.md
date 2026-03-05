@@ -30,7 +30,11 @@ Gen-AI tools are trained by feeding them vast corpora of data in the form of tex
 
 This is especially problematic where the outputs of the Gen-AI models may ultimately threaten the creative livelihood of the original creators. Many lawsuits have been initiated by groups of artists, authers, and publishers to prevent AI companies from using their work without consulation, consent, and compensation.
 
+![Model Training](assets/AI_Training.png)
+
 ### Output Copyright
+
+![AI Output and Copyright](assets/AI_Output_.png)
 
 #### Copyright in Canada
 
@@ -39,9 +43,6 @@ In order to be eligible for copyright protection the Canadian Copyright Act (Dep
 - fixed in some medium
 - original (not a mere copy of another work), and
 - authored by a “natural person”. (Library of Parliament 2025)
-
-
-![Copyright Attribution](assets/TN.jpg)
 
 
 ## Overview
