@@ -21,10 +21,14 @@ Copyright is a legal framework that balances rewarding creators of literary, mus
 ## Copyright and AI
 
 There are two principal ways in which copyright is implicated in AI:
-- In terms of AI model training: In order to create AI models, vast swaths of copyrighted material have been ingested by companies like OpenAI and Anthropic. Did the authors give permission? Were they compensated for the use of their works? In most cases that answers to those questions is no, and there are numerous court cases challenging this usage on copyright grounds.
-- In terms of the model's output: what is the copyright status of the generated work? Does the human initiator/prompter own the copyright to the work?
+- **Model training**: In order to create AI models, vast swaths of copyrighted material have been ingested by companies like OpenAI and Anthropic. Did the authors give permission? Were they compensated for the use of their works? In most cases that answers to those questions is no, and there are numerous court cases challenging this usage on copyright grounds.
+- **The copyright status of AI output**: what is the copyright status of AI-generated work? Does the human initiator/prompter own the copyright to the work?
 
 ### Model Training
+
+Gen-AI tools are trained by feeding them vast corpora of data in the form of text, images, audio, or other material. Through complex methods, the models "learn" to identify and replicate patterns. In most cases the data used for training is scraped from publically available sources (e.g. news sources available on the internet, online portfolios, etc.). Some of this material is in the public domain (e.g. government data sources, older books), but most is under copyright protection. The creators of these books, images, and music have mostly not been asked for permission, and have not been compensated for the use of their work. 
+
+This is especially problematic where the outputs of the Gen-AI models may ultimately threaten the creative livelihood of the original creators. Many lawsuits have been initiated by groups of artists, authers, and publishers to prevent AI companies from using their work without consulation, consent, and compensation.
 
 ### Output Copyright
 
