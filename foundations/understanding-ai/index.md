@@ -13,6 +13,13 @@ Artificial intelligence differs from traditional digital tools in both how it fu
 
 ![UnderstandingAI Output 1 and 2](assets/UnderstandingAI_Output12.png)
 
+{: .note-title }
+> Prompt
+> **Model** GPT Image 1.5
+> 
+> **Prompt** Generate an image of a highly detailed 3D exploded anatomical view of the human skull, showing individual cranial bones separated slightly along their natural sutures (frontal, parietal, temporal, occipital, sphenoid, ethmoid, maxilla, zygomatic, nasal, mandible). The skull should be rendered in photorealistic bone texture with subtle surface porosity and natural coloration. Arrange the bones in a clean exploded layout radiating outward from the center while preserving their correct anatomical orientation. Use neutral studio lighting with soft shadows and a plain white or light grey background, similar to a medical textbook or anatomical atlas illustration. Camera perspective should be three-quarter frontal view, showing both cranial vault and facial bones clearly. High-resolution scientific visualization style, accurate anatomy, no stylization, no distortion.
+
+
 These differences also change the nature of the user’s role in the workflow. With traditional tools, users typically specify exact commands and procedures to reach a desired outcome. Working with AI, however, often involves iterative prompting, evaluation, and refinement. Users guide the system through natural language instructions and must assess the outputs it produces. In this sense, AI functions less like a static tool. Understanding this distinction is important for setting appropriate expectations about reliability, transparency, and the level of human oversight required when integrating AI into any part of the production pipeline.
 
 
