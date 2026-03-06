@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# SciVizAI
+![SciVisAI Logo](Logo.png)
 
 ## An open resource for responsible and ethical AI in scientific and medical visualization
 
