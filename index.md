@@ -6,8 +6,6 @@ nav_order: 1
 
 ![SciVisAI Header](HomeHeader.png)
 
-## An open resource for responsible and ethical AI in scientific and medical visualization
-
 Scientific and medical visualization professionals are navigating a rapidly evolving AI landscape. This resource hub provides field-specific guidance, technical experiments, and ethical frameworks to help practitioners, educators, and students integrate AI tools responsibly into their practice.
 
 ## Why This Matters Now
