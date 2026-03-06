@@ -4,7 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-![SciVisAI Header](HomeHeader.png)
+<picture>
+	<source media="(max-width: 40rem)" srcset="HomeHeader_Mobile.png">
+	<img src="HomeHeader.png" alt="SciVizAI Header">
+</picture>
 
 Scientific and medical visualization professionals are navigating a rapidly evolving AI landscape. This resource hub provides field-specific guidance, technical experiments, and ethical frameworks to help practitioners, educators, and students integrate AI tools responsibly into their practice.
 
