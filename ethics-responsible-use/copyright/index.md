@@ -58,7 +58,7 @@ As an example of current Canadian litigation, in 2021 Ankit Sahni registered a c
 
 The US Copyright Office has issued a series of reports on AI and copyright (https://www.copyright.gov/ai/), which contain useful and approachable discussions of the issues. Their current understanding supports the centrality of human authorship, but acknowledges situations where mixed copyright may obtain. In their report on AI Copyrightability (United States Copyright Office 2025):
 “The Report distinguishes between (1) using AI as a tool to assist in creating works (assistive uses, such as de-aging or crowd removal), (2) using AI as a stand-in for human creativity, and (3) using AI as a brainstorming tool. 
-The Report notes (1) assistive uses and (3) brainstorming uses do not limit copyright protection (i.e., copyright can subsist). The remaining discussion in this article therefore primarily focuses on practical tips to strengthen a copyright claim in use case (2), using AI as a stand-in for human creativity.” (Yi and Chau)
+The Report notes (1) assistive uses and (3) brainstorming uses do not limit copyright protection (i.e., copyright can subsist).” (Yi and Chau)
 
 
 ## References
