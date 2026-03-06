@@ -9,14 +9,15 @@ layout: default
 
 ## Intellectual Property
 
-Intellectual property (IP) is a set of legal rights that protect products of human creativity and ingenuity in the form of inventions, expressions, ideas, symbols, and designs. These rights give the owner the exclusive right to profit from the IP's use or distriubution, and the owner can license or sell these rights to others. The most common varieties of IP include patents, copyright, trademarks, and industrial designs, which have varying durations.
+Intellectual property (IP) is a set of legal rights that protect products of human creativity and ingenuity in the form of inventions, expressions, ideas, symbols, and designs. These rights give the owner the exclusive right to profit from the IP's use or distriubution, and the owner can license or sell these rights to others. The most common varieties of IP include **patents**, **copyright**, **trademarks**, and **industrial designs**. Each of these different forms of IP have different requirements, legal regimes, and durations of protection.
 
 ## What is Copyright?
 
-Copyright is a legal framework that balances rewarding creators of literary, musical, and artistic works while eventually allowing society to freely use and build upon creative outputs. The core role of copyright is to:
-- grant creators exclusive rights to benefit financially from their work
-- protect the reputation of authors and ensure the integrity of their work
-- after an apporopriate period, revert the created work to the public domain to enable cultural enrichment and ongoing creation
+Copyright is a form of IP that protects the creators of literary, musical, and artistic works for a limited term (the creator's life plus 70 years in the US and Canada). The limited term eventually allows society to freely use and build upon creative outputs. 
+> The core role of copyright is to:
+> - grant creators exclusive rights to benefit financially from their work
+> - protect the reputation of authors and ensure the integrity of their work
+> - after an apporopriate period, revert the created work to the public domain to enable cultural enrichment and ongoing creation
 
 ## Copyright and AI
 
