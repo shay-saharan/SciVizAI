@@ -9,7 +9,7 @@ layout: default
 
 ## Intellectual Property
 
-Intellectual property (IP) is a set of legal rights that protect products of human creativity and ingenuity in the form of inventions, expressions, ideas, symbols, and designs. These rights give the owner the exclusive right to profit from the IP's use or distriubution, and the owner can license or sell these rights to others. The most common varieties of IP include **patents**, **copyright**, **trademarks**, and **industrial designs**. Each of these different forms of IP have different requirements, legal regimes, and durations of protection.
+Intellectual property (IP) is a set of legal rights that protect products of human creativity and ingenuity in the form of inventions, expressions, ideas, symbols, and designs. These rights give the owner the exclusive right to profit from the IP's use or distriubution, and the owner can license or sell these rights to others. The most common varieties of IP include **patents**, **copyright**, **trademarks**, and **industrial designs** (among others). Each different form of IP has unique requirements, legal regimes, and durations of protection.
 
 ## What is Copyright?
 
