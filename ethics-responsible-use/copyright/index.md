@@ -77,6 +77,9 @@ United States Copyright Office. 2025. “Copyright and Artificial Intelligence P
 Yi, David, and Brian Chau. 2025. “Practical commentary for protecting generative AI art.” Norton Rose Fullbright. https://www.nortonrosefulbright.com/en-ca/knowledge/publications/85e0e39d/practical-commentary-for-protecting-generative-ai-art.
 
 AUTHOR(S)
+
 Nick Woolridge
+
 Last edited: 06-March-2026
+
 Please report any inaccuracies or suggest updates
