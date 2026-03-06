@@ -60,13 +60,23 @@ The US Copyright Office has issued a series of reports on AI and copyright (http
 “The Report distinguishes between (1) using AI as a tool to assist in creating works (assistive uses, such as de-aging or crowd removal), (2) using AI as a stand-in for human creativity, and (3) using AI as a brainstorming tool. 
 The Report notes (1) assistive uses and (3) brainstorming uses do not limit copyright protection (i.e., copyright can subsist).” (Yi and Chau)
 
-
 ## References
 
 Brittain, Blake, David Bario, Leigh Jones, and Mark Potter. 2025. “US appeals court rejects copyrights for AI-generated art lacking 'human' creator.” Reuters, March 18, 2025. https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/.
+
 Canadian Internet Policy and Public Interest Clinic. n.d. “CIPPIC v Sahni.” Canadian Internet Policy and Public Interest Clinic. Accessed February 2, 2026. https://www.cippic.ca/our-work/cippic-v-sahni.
+
 Department of Justice Canada. 2024. “Copyright Act (R.S.C., 1985, c. C-42),” Legislation. Copyright Act. https://laws-lois.justice.gc.ca/eng/acts/C-42/Index.html.
+
 Innovation, Science and Economic Development Canada. 2024. “WHAT WE HEARD REPORT Consultation on Copyright in the Age of Generative Artificial Intelligence.” ISED Canada. https://ised-isde.canada.ca/site/strategic-policy-sector/en/marketplace-framework-policy/consultation-paper-consultation-copyright-age-generative-artificial-intelligence.
+
 Library of Parliament. 2025. “Copyright and Artificial Intelligence.” Hillnotes. https://hillnotes.ca/2025/10/27/copyright-and-artificial-intelligence/.
+
 United States Copyright Office. 2025. “Copyright and Artificial Intelligence Part 2: Copyrightability.” U.S. Copyright Office. https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf.
+
 Yi, David, and Brian Chau. 2025. “Practical commentary for protecting generative AI art.” Norton Rose Fullbright. https://www.nortonrosefulbright.com/en-ca/knowledge/publications/85e0e39d/practical-commentary-for-protecting-generative-ai-art.
+
+AUTHOR(S)
+Nick Woolridge
+Last edited: 06-March-2026
+Please report any inaccuracies or suggest updates
