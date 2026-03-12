@@ -13,20 +13,20 @@ Scientific and medical visualization professionals are navigating a rapidly evol
 
 ## Who Is This For
 
-### Professionals
+#### Professionals
 For practicing medical illustrators and science visualization professionals, this resource offers workflow guidance grounded in real production contexts, case studies, and clear guidance on copyright and ethical use.
 
-### Students
+#### Students
 If you're entering the field, this resource provides a grounded, critical understanding of how AI intersects with scientific and medical visualization, both its possibilities and its limitations.
 
-### Educators
+#### Educators
 This resource provides information and materials to support the integration of AI topics into your teaching, including discussions related to ethical frameworks, case studies, and pedagogical resources developed specifically for biomedical communications and scientific illustration programs.
 
 ## Why This Matters Now
 AI tools are already reshaping scientific and medical visualization workflows today. Practitioners are experimenting with generative tools. Publishers are establishing new disclosure requirements. Institutions are creating policies about AI disclosure and attribution. Many of our day-to-day software now have build in AI features. Whether you're skeptical about AI or enthusiastically experimenting, we need to create space for open dialog, and collaboration -  this resource is one way to do that.
 
 
-# AI in Science Visualization
+## AI in Science Visualization
 
 AI has been an area of intense interest and concern for the field of medical illustration, and science visualization more generally. Our assessment is that, at least for the present, AI presents very little threat to the medical illustration field. Medical illustration, in contrast to most editorial and other specialty illustration fields, is mostly insulated from AI for the following reasons:
 
