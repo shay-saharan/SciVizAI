@@ -26,9 +26,13 @@ This resource provides information and materials to support the integration of A
 AI tools are already reshaping scientific and medical visualization workflows today. Practitioners are experimenting with generative tools. Publishers are establishing new disclosure requirements. Institutions are creating policies about AI disclosure and attribution. Many of our day-to-day software now have build in AI features. Whether you're skeptical about AI or enthusiastically experimenting, we need to create space for open dialog, and collaboration -  this resource is one way to do that.
 
 
-## AI in Science Visualization
+## AI in Science Visualization: Potential and Pitfalls
 
-AI has been an area of intense interest and concern for the field of medical illustration, and science visualization more generally. Our assessment is that, at least for the present, AI presents very little threat to the medical illustration field. Medical illustration, in contrast to most editorial and other specialty illustration fields, is mostly insulated from AI for the following reasons:
+Generative AI tools have many potential benefits; they promise to ease complex workflows, facilitate research, and speed production.
+
+At the same time, AI adoption comes with numerous potential pitfalls, including eithcs concerns to environmental costs. Already, creative workers are seeing a worsening job market in the editorial illustration and vfx industries. How is the medical and scientific visualization field being affected?
+
+Our assessment is that, at least for the present, AI presents very little threat to the medical and scientific illustration field, which are mostly insulated from negative AI impacts for the following reasons:
 
 **Accuracy**: our field is known for rigour and accuracy: while current AI image generators can create superficially impressive images, they are woefully bad at representing even the simplest anatomy, not to mention cell or molecular biology.
 
@@ -42,16 +46,17 @@ AI has been an area of intense interest and concern for the field of medical ill
 
 **Empathy**: much medical illustration work these days involves communicating to specialized (and sometimes vulnerable) audiences. Humans are good at deploying appropriate design strategies to ensure that their illustrations, animations, or interactive works are appropriate, usable, and effective for their particular target audiences. AI tools have not demonstrated their efficacy in this area.
 
-Having said all this, AI technology is developing rapidly, and no one knows what the future will bring. Some of the limitations of AI are inherent, though, and we think there will be a role for trained human science communicators for the foreseeable future.  We are watching developments in AI closely, and there are limited ways in which we are introducing these tools into our curriculum. We are developing guidelines around where we can use AI tools, driven by our overarching concern for accuracy, usefulness, and ethically trained models.
-
-Additionally, many people see serious issues associated with the use of AI:
+In addition to the field-related AI limitations noted above, there are principle-based objections to generative AI systems in general that cause many to be generally skeptical of their use:
 
 - Ethical concerns: many generative AI systems have been developed by training on the intellectual property of artists and writers. These creators have not consented to this use, and have not been compensated by the AI companies (which stand to make many billions). It is worth noting that some AI systems have been trained ethically, using datasets that are newly created or properly licensed.
 
-- Job displacement: there is concern for significant unemployment impacts as AI starts to replace human workers.
+- Job displacement and human flourishing: there is concern for significant unemployment impacts as AI starts to replace human workers, and the impact on human self-worth when creative vocations are taken away.
 
 - Environmental impacts: many are concerned about the energy required for training and inference, and the demand for land, material, and water resources for AI data centres.
 
+It is important to note that not all AI systems have the same ethical, employment, and environmental costs.
+
+Having said all this, AI technology is developing rapidly, and no one knows what the future will bring. Some of the limitations of AI are inherent, though, and we think there will be a role for trained human science communicators for the foreseeable future.
 
 ### Contributing
 This resource hub grows stronger with community participation. 
