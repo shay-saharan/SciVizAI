@@ -37,10 +37,8 @@ A curated list of papers and publications relevant to AI in scientific and medic
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  var SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSidHu0dxrOgjL8tNKqSZy133_vx627FQt3EJywRIzB1H5HV-adalF3mEeyNJh3jWVwJPmbmIxsv5g-/pub?output=csv";
-  // Route through a CORS proxy to avoid browser cross-origin blocks
-  var CSV_URL = "https://api.allorigins.win/raw?url=" + encodeURIComponent(SHEET_CSV_URL);
+(function () {
+  var CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSidHu0dxrOgjL8tNKqSZy133_vx627FQt3EJywRIzB1H5HV-adalF3mEeyNJh3jWVwJPmbmIxsv5g-/pub?output=csv";
 
   var loading = document.getElementById("resources-loading");
   var table   = document.getElementById("resources-table");
@@ -149,5 +147,5 @@ document.addEventListener("DOMContentLoaded", function () {
     if (field || row.length) { row.push(field); rows.push(row); }
     return rows;
   }
-});
+}());
 </script>
