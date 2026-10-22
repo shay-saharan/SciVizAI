@@ -1,7 +1,7 @@
 ---
 title: Environmental Impact
-parent: Ethics & Responsible Use
-nav_order: 3
+parent: Responsible Use
+nav_order: 5
 layout: default
 ---
 

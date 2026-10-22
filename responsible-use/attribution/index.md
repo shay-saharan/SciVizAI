@@ -1,6 +1,6 @@
 ---
 title: Attribution
-parent: Ethics & Responsible Use
+parent: Responsible Use
 nav_order: 2
 layout: default
 ---

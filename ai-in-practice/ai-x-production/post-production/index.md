@@ -1,6 +1,6 @@
 ---
 title: Post-production
-parent: AI in Visual Production
+parent: AI X Production
 nav_order: 3
 layout: default
 ---

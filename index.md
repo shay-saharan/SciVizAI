@@ -25,7 +25,6 @@ This resource provides information and materials to support the integration of A
 ## Why This Matters Now
 AI tools are already reshaping scientific and medical visualization workflows today. Practitioners are experimenting with generative tools. Publishers are establishing new disclosure requirements. Institutions are creating policies about AI disclosure and attribution. Many of our day-to-day software now have build in AI features. Whether you're skeptical about AI or enthusiastically experimenting, we need to create space for open dialog, and collaboration -  this resource is one way to do that.
 
-
 ## AI in Science Visualization: Potential and Pitfalls
 
 Generative AI tools have many potential benefits; they promise to ease complex workflows, facilitate research, and speed production.
@@ -68,7 +67,11 @@ Teaching materials and pedagogical insights
 Feedback on existing content
 
 ### About This Project
-This resource hub is led by [Shehryar (Shay) Saharan](mailto:s.saharan@utoronto.ca) and [Nick Woolridge](mailto:n.woolridge@utoronto.ca) at [Biomedical Communications, University of Toronto](https://bmc.med.utoronto.ca/), with [Gael McGill](mailto:mcgill@crystal.harvard.edu) (Harvard Medical School) and [Roxanne Ziman](mailto:roxanne.ziman@uib.no) (University of Bergen).
+This resource hub is led by [Shehryar (Shay) Saharan](mailto:s.saharan@utoronto.ca), [Derek Ng](mailto:d.ng@utoronto.ca), and [Nick Woolridge](mailto:n.woolridge@utoronto.ca) at [Biomedical Communications, University of Toronto](https://bmc.med.utoronto.ca/).
+
+Collaborators: Sania Khurshid, **Joseph Henein**, Tristy Liu, and **Kelsey Zhao**.
+
+<img src="Logo_BMC.png" alt="Biomedical Communications, University of Toronto logo" style="width: 100%; max-width: 250px; height: auto;">
 
 ### Questions or feedback?
 [Contact information]
@@ -76,10 +79,20 @@ This resource hub is led by [Shehryar (Shay) Saharan](mailto:s.saharan@utoronto.
 ## Information Hierarchy
 
 - [Foundations](foundations/)
-- [Ethics & Responsible Use](ethics-responsible-use/)
-- [AI in Visual Production](ai-in-visual-production/)
+- [Responsible Use](responsible-use/)
+- [AI in Practice](ai-in-practice/)
 - [Technology Guides](technology-guides/)
 - [Case Studies](case-studies/)
-- [Interactive Tool Directory](interactive-tool-directory/)
 - [How to Contribute](how-to-contribute/)
+
+## How to Use This Resource
+
+This site is organized to support different entry points into AI for scientific and medical visualization.
+
+### Suggested Paths
+
+- Start with [Understanding AI](foundations/understanding-ai/) for foundational concepts.
+- Visit [Technology Guides](technology-guides/) for practical setup and workflows.
+- Review [Responsible Use](responsible-use/) before production use.
+- Explore [Case Studies](case-studies/) for applied examples.
 

@@ -1,6 +1,6 @@
 ---
 title: Copyright
-parent: Ethics & Responsible Use
+parent: Responsible Use
 nav_order: 1
 layout: default
 ---

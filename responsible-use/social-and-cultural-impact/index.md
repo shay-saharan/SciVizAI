@@ -1,11 +1,11 @@
 ---
-title: Ethics
-parent: Ethics & Responsible Use
+title: Social and Cultural Impact
+parent: Responsible Use
 nav_order: 4
 layout: default
 ---
 
-# Ethics
+# Social and Cultural Impact
 
 Ethical use of AI in visualization depends on transparency, accountability, and context-aware judgment.
 

@@ -9,7 +9,7 @@ layout: default
 
 ## Overview
 
-The core idea of local LLMs is simple: instead of sending your prompts to a company's server somewhere in the cloud, the model runs directly on your machine. Your data never leaves. There are no subscriptions, no rate limits, and no one reading your conversations. The tradeoff is that your computer's hardware determines how fast and how capable your experience will be, but as you'll see, even modest hardware can run surprisingly good models today. **Running models locally can also reduce unnecessary cloud usage, but inference still has an environmental footprint—see [Environmental Impact](../../ethics-responsible-use/environmental-impact/).** This guide covers everything you need to get started using **graphical, point-and-click tools**, no terminal required.
+The core idea of local LLMs is simple: instead of sending your prompts to a company's server somewhere in the cloud, the model runs directly on your machine. Your data never leaves. There are no subscriptions, no rate limits, and no one reading your conversations. The tradeoff is that your computer's hardware determines how fast and how capable your experience will be, but as you'll see, even modest hardware can run surprisingly good models today. **Running models locally can also reduce unnecessary cloud usage, but inference still has an environmental footprint—see [Environmental Impact](../../responsible-use/environmental-impact/).** This guide covers everything you need to get started using **graphical, point-and-click tools**, no terminal required.
 
 {: .note-title }
 > What "Local" Actually Means

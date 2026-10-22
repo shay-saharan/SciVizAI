@@ -12,4 +12,4 @@ Core concepts to help you understand AI and navigate this resource effectively.
 ## Sections
 
 - [Understanding AI](understanding-ai/)
-- [How to Use This Resource](how-to-use-this-resource/)
+- [To AI, or not to AI](to-ai-or-not-to-ai/)
