@@ -48,7 +48,7 @@ This is especially problematic where the outputs of the Gen-AI models may ultima
 
 A number of lawsuits have been initiated by groups of artists, authers, and publishers to prevent AI companies from using their work without consulation, consent, and compensation. 
 
-The litigation landscape here is changing rapidly. Some of these lawsuits have been settled: In September of 2025, the AI giant Anthropic agreed to pay $1.5 billion USD to litigants (Bartz vs Anthropic) whose books had been pirated for training. 
+The litigation landscape here is changing rapidly. Some of these lawsuits have been settled: In September of 2025, the AI giant Anthropic agreed to pay $1.5 billion USD to litigants (Bartz vs Anthropic) whose books had been pirated for training (Brittain, 2026). 
 
 Many AI companies and proponents claim that AI training is *fair use* (or *fair dealing* in the Canadian context). One recent case in the US (Thomson Reuters v. ROSS Intelligence) found that AI training did not constiutute fair use.
 
@@ -90,9 +90,13 @@ In a more recent case (Fauchoux and Kahn, 2025), the US Copyright Office partial
 
 Brittain, Blake, David Bario, Leigh Jones, and Mark Potter. 2025. “US appeals court rejects copyrights for AI-generated art lacking 'human' creator.” Reuters, March 18, 2025. https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/.
 
+Brittain, Blake. US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit. Reuters, July 20, 2026. https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/
+
 Canadian Internet Policy and Public Interest Clinic. n.d. “CIPPIC v Sahni.” Canadian Internet Policy and Public Interest Clinic. Accessed February 2, 2026. https://www.cippic.ca/our-work/cippic-v-sahni.
 
 Department of Justice Canada. 2024. “Copyright Act (R.S.C., 1985, c. C-42),” Legislation. Copyright Act. https://laws-lois.justice.gc.ca/eng/acts/C-42/Index.html.
+
+Fauchoux, Vincent; Kahn, Benjamin. Artificial intelligence and copyright: the Invoke decision and "A Single Piece of American Cheese", a landmark decision by the U.S. Copyright Office? https://www.ddg.fr/actualite/artificial-intelligence-and-copyright-the-invoke-decision-and-a-single-piece-of-american-cheese-a-landmark-decision-by-the-u-s-copyright-office?utm_source=chatgpt.com
 
 Innovation, Science and Economic Development Canada. 2024. “WHAT WE HEARD REPORT Consultation on Copyright in the Age of Generative Artificial Intelligence.” ISED Canada. https://ised-isde.canada.ca/site/strategic-policy-sector/en/marketplace-framework-policy/consultation-paper-consultation-copyright-age-generative-artificial-intelligence.
 
@@ -102,7 +106,6 @@ United States Copyright Office. 2025. “Copyright and Artificial Intelligence P
 
 Yi, David, and Brian Chau. 2025. “Practical commentary for protecting generative AI art.” Norton Rose Fullbright. https://www.nortonrosefulbright.com/en-ca/knowledge/publications/85e0e39d/practical-commentary-for-protecting-generative-ai-art.
 
-Fauchoux, Vincent; Kahn, Benjamin. Artificial intelligence and copyright: the Invoke decision and "A Single Piece of American Cheese", a landmark decision by the U.S. Copyright Office? https://www.ddg.fr/actualite/artificial-intelligence-and-copyright-the-invoke-decision-and-a-single-piece-of-american-cheese-a-landmark-decision-by-the-u-s-copyright-office?utm_source=chatgpt.com
 
 AUTHOR(S)
 
