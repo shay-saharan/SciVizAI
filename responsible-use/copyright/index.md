@@ -16,28 +16,28 @@ Copyright is a form of IP that protects the creators of literary, musical, and a
 Works for which copyright has expired, or for which copyright never obtained in the first place (e.g. many government documents, or those works which authors have designated as being copyright-free), are considered to be in the *public domain*. Public domain works are free to be copied, adapted, and published.
 
 The core purpose of copyright is to:
-> benefit society by incentivising the creation of new works
-> grant creators exclusive rights to benefit financially from their work
-> protect the reputation of authors and ensure the integrity of their work
-> after an apporopriate period, revert the created work to the public domain to enable cultural enrichment and ongoing creation
+- benefit society by incentivising the creation of new works
+- grant creators exclusive rights to benefit financially from their work
+- protect the reputation of authors and ensure the integrity of their work
+- after an apporopriate period, revert the created work to the public domain to enable cultural enrichment and ongoing creation
 
 In most regions of the world, copyright obtains as soon as the author fixes a unique expression in a medium (whether that be written words, a painted image, musical notation, performance, etc. ). This is true in the United States as well, but a quirk of their copyright regime means that authors must register their work with the US Copyright Office in order to be eligible for statuatory damages in copyright infringment litigation.
 
 ## Exceptions to Copyright
 Copyright protection is not exclusive. Exceptions exist to protect limited use of copyrighted works for education and cultural discourse. In the US these exceptions are called *fair use*, and in Canada they are called *fair dealing*. Generally, these exceptions allow for the limited use of copyrighted works for various purposes. In Canada, the purposes are enumaerated as:
-> Criticism or review
-> News reporting
-> Research or private study
-> Education, and
-> Parody
+- Criticism or review
+- News reporting
+- Research or private study
+- Education, and
+- Parody
 
 Courts in both countries have shaped the allowable scope of the exempted use in similar ways. Generally, the fairness factors include the purpose of the use, whether the use is transformative or not, the amount of copying, whether there were free alternatives, and the effect on the market and value of the original work.
 
 ## Copyright and AI
 There are two principal ways in which copyright is implicated in AI:
-> **Model training**: In order to create AI models, vast swaths of copyrighted material have been ingested by companies like OpenAI and Anthropic. Did the authors give permission? Were they compensated for the use of their works? In most cases that answers to those questions is no, and there are numerous court cases challenging this usage on copyright grounds.
+- **Model training**: In order to create AI models, vast swaths of copyrighted material have been ingested by companies like OpenAI and Anthropic. Did the authors give permission? Were they compensated for the use of their works? In most cases that answers to those questions is no, and there are numerous court cases challenging this usage on copyright grounds.
 
-> **The copyright status of AI output**: what is the copyright status of AI-generated work? Does the human directing the AI system own the copyright to the work?
+- **The copyright status of AI output**: what is the copyright status of AI-generated work? Does the human directing the AI system own the copyright to the work?
 
 ### Model Training
 Gen-AI tools are trained by feeding them vast corpora of data in the form of text, images, audio, or other material. Through complex methods (detailed elsewhere on this site), the models "learn" to identify and replicate patterns. In many cases the data used for training is scraped from publically available sources (e.g. news sources available on the internet, online portfolios, etc.). In some cases the data has been pirated. Some of this material may be in the public domain (e.g. government data sources, older books), but most is under copyright protection. The creators of these books, images, and music have mostly *not* been asked for permission, and have not been compensated for the use of their work. 
@@ -84,7 +84,7 @@ The US court case US v. Thaler is similar to the SURYAST case noted above. The o
 
 In a more recent case (Fauchoux and Kahn, 2025), the US Copyright Office partially reversed their initial refusal to grant copyright protection to an AI generated work. Kent Keirsey, CEO of AI company Invoke AI, had used his software to generate "A Single Piece of American Cheese" with AI. The Copyright Office initially rejected the claim, but after the author provided extensive documentation of the highly iterative creation process, they protected the “selection, coordination, and arrangement of material generated by artificial intelligence.” However, they expressly disallowed the protection of "2-D artwork, [and] AI generated image components." Some AI advocates see this as vindication, allowing the copyrighting of AI-generated works, but in truth the result is much more murky: some parts of a work my be copyrighted, and others not.
 
-<img src="assets/American_Cheese.jpg" width="300" alt="Artwork A Single Piece of American Cheese" />
+<img src="assets/American_Cheese.jpg" width="600" alt="Artwork A Single Piece of American Cheese" />
 
 ## References
 
