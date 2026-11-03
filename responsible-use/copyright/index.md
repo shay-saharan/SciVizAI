@@ -42,7 +42,7 @@ There are two principal ways in which copyright is implicated in AI:
 ### Model Training
 Gen-AI tools are trained by feeding them vast corpora of data in the form of text, images, audio, or other material. Through complex methods (detailed elsewhere on this site), the models "learn" to identify and replicate patterns. In many cases the data used for training is scraped from publically available sources (e.g. news sources available on the internet, online portfolios, etc.). In some cases the data has been pirated. Some of this material may be in the public domain (e.g. government data sources, older books), but most is under copyright protection. The creators of these books, images, and music have mostly *not* been asked for permission, and have not been compensated for the use of their work. 
 
-<img src="assets/AI_Inputs_funnel.png" width="300" alt="Model Training" />
+<img src="assets/AI_Inputs_funnel.png" width="400" alt="Model Training" />
 
 This is especially problematic where the outputs of the Gen-AI models may ultimately threaten the creative livelihood of the original creators. 
 
@@ -57,7 +57,7 @@ The legal and regulatory landscape may change due to various factors. AI propone
 ### The copyright status of AI output
 "Who owns the output of a Gen-AI model?" The answer to that question is not simple. In terms of *property rights*, the answer would be: "the prompter or initiator of the AI model". In terms of *copyright*, the answer would in most cases be: "no one"; the work is in the public domain. In Canada, the US, and most of Europe, *human authorship* is required for a creative work to be eligible for copyright protection. 
 
-<img src="assets/AI_Output_hands.png" width="300" alt="Model Training" />
+<img src="assets/AI_Output_hands.png" width="500" alt="Model Training" />
 
 Where there is both human and machine contributions to a work, those elements that are human-authored can have copyright protection, but those elements that are machine generated cannot. 
 
